@@ -1,0 +1,20 @@
+Adira Norzamri binti Kholis       ;473492;DMD2189;Perodua  ;58800  ;L;F;2020
+Rasammah Chandran                 ;315701;KZT7718;Porsche  ;940000 ;I;F;2021
+Yep Way Hoy                       ;324100;TND4539;Honda    ;87860  ;I;F;2019
+Shoba Ramasamy a/l Sittampalam    ;406885;JRS3636;BMW      ;348322 ;I;I;2019
+Kar Lew Moh                       ;392578;PPX4100;Audi     ;603172 ;I;I;2016
+Nur Hjh Soffia binti Rais         ;344466;WPV2295;Ferrari  ;1070000;I;I;2017
+Gin Yap Nin Hui                   ;499238;KUF3867;Subaru   ;117788 ;I;F;2013
+Swarna a/l Rabinder Parthiban     ;451339;JDS3303;Peugeot  ;179888 ;I;I;2012
+Rena Fam Miing Miing              ;323496;VEA1289;Proton   ;32800  ;L;I;2015
+Haji Azri Abdillah bin Aqil       ;419019;WQE3372;Toyota   ;88314  ;I;I;2012
+Nor Sarwati binti Wan Radzi       ;375735;JWE0245;Ford     ;461271 ;I;F;2010
+Nuur Noryshah binti Farid         ;337257;CWQ9256;Nissan   ;140226 ;I;F;2014
+Farhan bin Wan Saifudin           ;438914;MTY9121;Hyundai  ;119888 ;I;F;2018
+Shee Kian Hong                    ;420176;NSD0783;KIA      ;103888 ;I;I;2015
+Ang Leong Lao                     ;371760;RQF3152;Chevrolet;94486  ;I;I;2011
+Nurul Nurfatehah binti Wan Izzudin;418689;PMS6143;Proton   ;42800  ;L;F;2009
+Mohammed Zairy Alimi bin Shueib   ;466274;JPW3254;Perodua  ;41427  ;L;F;2008
+Nur Lina binti Che Zairulaizam    ;335249;FCG1043;Toyota   ;367881 ;I;I;2019
+Theiviya Gurusamy                 ;416121;JGM9070;Honda    ;105950 ;L;I;2020
+Seoh Boo Ka                       ;394585;FEW5720;Proton   ;103300 ;L;F;2000

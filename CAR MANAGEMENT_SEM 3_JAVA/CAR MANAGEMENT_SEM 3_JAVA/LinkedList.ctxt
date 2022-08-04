@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment1.params=
+comment1.target=LinkedList()
+comment2.params=element
+comment2.target=void\ insertAtBack(Car)
+comment3.params=
+comment3.target=java.lang.Object\ getFirst()
+comment4.params=
+comment4.target=java.lang.Object\ getNext()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment6.params=
+comment6.target=void\ bubbleSort()
+numComments=7
